@@ -1,8 +1,0 @@
-{
-  "name": "duck-farm"
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    }
-  ]
-}
