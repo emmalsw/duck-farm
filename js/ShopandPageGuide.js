@@ -2,7 +2,7 @@
  
     $.fn.loadShopTop = function() {
         this.html(
-            `<div class="container">
+            `<div class="container-fluid">
                 <h1>Shop</h1>
                 <h6 class="card-subtitle mb-2 text-muted">
                     Duck Guide<br/>

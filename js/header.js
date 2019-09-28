@@ -21,7 +21,7 @@
                   <a class="nav-link" href="./MeetSomeDucks.html">Meet Some Ducks</a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="#">Shop</a>
+                  <a class="nav-link" href="./ShopHome.html">Shop</a>
               </li>
               <li>
                   <a class="nav-link" href="#">Contact</a>
