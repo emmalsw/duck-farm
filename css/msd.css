@@ -1,0 +1,15 @@
+.msd_ducks {
+    width: 242px;
+    height: 208px;
+    padding: 10px;
+}
+
+.col-sm {
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.col-sm-3 {
+    text-align: right;
+    padding-top: 20px;
+}

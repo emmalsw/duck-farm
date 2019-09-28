@@ -15,10 +15,10 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item">
-                <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="./index.html">Home <span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item">
-                  <a class="nav-link" href="#">Meet Some Ducks</a>
+                  <a class="nav-link" href="./MeetSomeDucks.html">Meet Some Ducks</a>
               </li>
               <li class="nav-item">
                   <a class="nav-link" href="#">Shop</a>
