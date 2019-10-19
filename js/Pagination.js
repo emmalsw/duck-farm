@@ -2,7 +2,7 @@
  
     $.fn.loadPagination = function() {
         this.html(
-            `<div class="container-fluid">
+            `<div class="center">
                 <nav aria-label="Page navigation example">
                     <ul class="pagination">
                         <li class="page-item"><a class="page-link" href="#">Ducks</a></li>

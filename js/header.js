@@ -1,9 +1,9 @@
 (function ( $ ) {
  
     $.fn.loadHeader = function() {
+        // now this = <div id="header">yyuwy</html>
         this.html(
-      `<div class="container-fluid">
-        <nav class="navbar navbar-light" style="background-color: #ffff99">
+      `<nav class="navbar navbar-light" style="background-color: #ffff99">
           <a class="navbar-brand" href="#">
             <img src="/img/ducky_logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
             Dally the Duck Duck Farm
@@ -28,8 +28,7 @@
               </li>
             </ul>
           </div>
-        </nav>
-      </div>`);
+        </nav>`);
         return this;
     };
  
