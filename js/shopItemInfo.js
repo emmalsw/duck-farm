@@ -13,7 +13,7 @@
                 </div>
                 <div class="col-sm-3">
                     <a class="btn btn-primary" target="_blank" href="https://forms.gle/Mz5AH2WuxovuYpC76">${obj.btnName}</a>
-                    <p>Ducks Left: ${obj.quantity}</p>
+                    <p>Items Left: ${obj.quantity}</p>
                 </div>
             </div>`
         }
