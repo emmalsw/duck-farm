@@ -4,7 +4,7 @@
         var content = "";
         for (var obj of array) {
             content = content +
-            `<div class="row" style= "padding-bottom: 10px">
+            `<div class="row ${obj.class} shopItem" style= "padding-bottom: 10px">
                 <div class="col-sm-2">
                     <img class="shop_ducks" src="${obj.pic}" style="width: 100%;height: 100%">
                 </div>

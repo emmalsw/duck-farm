@@ -1,0 +1,19 @@
+h1 {
+    text-align: center
+}
+
+h3 {
+    text-align: center
+}
+
+.form {
+    padding: 50px
+}
+
+.contact {
+    padding: 50px
+}
+
+.alert alert-warning {
+    padding: 50px
+}

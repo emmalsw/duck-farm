@@ -17,6 +17,37 @@
                 </nav>
             </div>`
         );
+        $(this).find('li').click(function() {
+            switch ($(this).text()) {
+                case 'Ducks':
+                    $('.shopItem').hide();
+                    $('.shopItem.duck').show();
+                    break;
+                case 'Duck Kits':
+                    $('.shopItem').hide();
+                    $('.shopItem.duck_kit').show();
+                    break;
+                 case 'Duck Ponds':
+                    $('.shopItem').hide();
+                    $('.shopItem.duck_pond').show();
+                    break;
+                 case 'Eggs':
+                    $('.shopItem').hide();
+                    $('.shopItem.duck_eggs').show();
+                    break;
+                 case 'Incubators':
+                    $('.shopItem').hide();
+                    $('.shopItem.duck_incubator').show();
+                    break;
+                 case 'Meat':
+                    $('.shopItem').hide();
+                    $('.shopItem.duck_meat').show();
+                    break;
+                default:
+                    console.log('do nothing');
+                    break;
+            }
+        });
         return this;
     };
  
