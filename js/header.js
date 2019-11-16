@@ -24,7 +24,7 @@
                   <a class="nav-link" href="./ShopHome.html">Shop</a>
               </li>
               <li>
-                  <a class="nav-link" href="#">Contact</a>
+                  <a class="nav-link" href="./contactUs.html">Contact</a>
               </li>
             </ul>
           </div>

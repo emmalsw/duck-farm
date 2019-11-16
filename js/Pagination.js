@@ -43,6 +43,14 @@
                     $('.shopItem').hide();
                     $('.shopItem.duck_meat').show();
                     break;
+                 case 'Feed':
+                    $('.shopItem').hide();
+                    $('.shopItem.duck_feed').show();
+                    break;
+                 case 'Medication':
+                    $('.shopItem').hide();
+                    $('.shopItem.duck_medicine').show();
+                break;
                 default:
                     console.log('do nothing');
                     break;
